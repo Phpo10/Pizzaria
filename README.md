@@ -13,6 +13,7 @@
 
 
 
+![image](https://github.com/Phpo10/Pizzaria/assets/127625504/aaa0b811-72af-4f52-bfea-23d382b67fb8)
 
 
 * Cardápio de pizzas
