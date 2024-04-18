@@ -20,6 +20,7 @@
 
 
 
+![image](https://github.com/Phpo10/Pizzaria/assets/127625504/baf1b8f3-ce54-49c9-aa32-98cd0cf2e2fb)
 
 
 
