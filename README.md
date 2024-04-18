@@ -2,10 +2,14 @@
  
 
 
+![image](https://github.com/Phpo10/Pizzaria/assets/127625504/05b7f98f-037d-4c41-b943-027204020986)
+
 
 * No incio, o programa irá pedir um cadastro, a ideia principal é ter um banco de dados para armazernar os cadastros dos clientes, porém, nesse programa, não tem um banco de dados.
 
 
+
+![image](https://github.com/Phpo10/Pizzaria/assets/127625504/ca732ea9-a1d8-4fed-b189-cef881a67c98)
 
 
 
@@ -28,6 +32,7 @@
 
 
 
+![image](https://github.com/Phpo10/Pizzaria/assets/127625504/f0e2035a-1783-4429-99d1-70f3097dc630)
 
 
 
@@ -35,6 +40,7 @@
 
 
 
+![image](https://github.com/Phpo10/Pizzaria/assets/127625504/a19b903c-bee4-417a-999b-e7195171c3f1)
 
 
 
